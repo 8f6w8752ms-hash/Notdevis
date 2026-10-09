@@ -1,0 +1,4 @@
+[[redirects]]
+from = “/api/envoyer”
+to = “/.netlify/functions/send-email”
+status = 200
